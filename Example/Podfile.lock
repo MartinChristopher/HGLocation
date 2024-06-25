@@ -1,0 +1,16 @@
+PODS:
+  - HGLocation (0.0.1)
+
+DEPENDENCIES:
+  - HGLocation (from `../`)
+
+EXTERNAL SOURCES:
+  HGLocation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HGLocation: 1ae7f210e75cb2d7a695b83a535e64d5f2ef0463
+
+PODFILE CHECKSUM: a630a05add6d48c36057e6a4019333347aebd1a0
+
+COCOAPODS: 1.15.2
